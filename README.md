@@ -7,7 +7,7 @@
 这是一个基于 Cloudflare Workers 和 KV Storage 的 IP 批量检测工具。它支持批量查询 IP 地址的地理位置、ISP、代理状态等信息，并支持导出 Excel/CSV。
 
 <p align="center">
-  <strong>在线体验:</strong> <a href="https://ip.li0il.ggff.net/">https://iori.hidns.vip</a>
+  <strong>在线体验:</strong> <a href="https://ip.li0il.ggff.net/">https://ip.li0il.ggff.net/</a>
 </p>
 
 ✅ 主要特性：
@@ -123,3 +123,4 @@ A: 目前代码深度绑定 ip2location.io 的 API 格式。如果需要支持 i
 
 
 MIT License. Feel free to use and modify.
+
