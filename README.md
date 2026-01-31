@@ -6,6 +6,10 @@
 
 这是一个基于 Cloudflare Workers 和 KV Storage 的 IP 批量检测工具。它支持批量查询 IP 地址的地理位置、ISP、代理状态等信息，并支持导出 Excel/CSV。
 
+<p align="center">
+  <strong>在线体验:</strong> <a href="https://ip.li0il.ggff.net/">https://iori.hidns.vip</a>
+</p>
+
 ✅ 主要特性：
 
 🚀 Serverless 架构：无需服务器，完全运行在 Cloudflare 边缘节点。
@@ -96,7 +100,7 @@ API Key 设置：
 
 ⚙️ 后台管理 (KV Mapping)
 
-访问 https://your-worker-domain/admin。
+访问 https://你的域名/admin。
 
 功能：在这里你可以自定义“国家/地区”的中文翻译，以及“Usage Type”的中文解释。
 
@@ -116,5 +120,6 @@ Q: 是否支持其他 IP 库？
 A: 目前代码深度绑定 ip2location.io 的 API 格式。如果需要支持 ipinfo.io 或其他库，需要修改 worker.js 中的 fetch 逻辑和数据解析逻辑。
 
 📄 License
+
 
 MIT License. Feel free to use and modify.
