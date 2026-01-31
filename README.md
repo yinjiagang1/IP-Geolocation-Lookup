@@ -10,6 +10,8 @@
   <strong>在线体验:</strong> <a href="https://ip.li0il.ggff.net/">https://ip.li0il.ggff.net/</a>
 </p>
 
+![主页面](./img.png)
+![管理页面](./img1.png)
 ✅ 主要特性：
 
 🚀 Serverless 架构：无需服务器，完全运行在 Cloudflare 边缘节点。
@@ -123,4 +125,5 @@ A: 目前代码深度绑定 ip2location.io 的 API 格式。如果需要支持 i
 
 
 MIT License. Feel free to use and modify.
+
 
